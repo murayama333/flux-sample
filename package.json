@@ -1,7 +1,7 @@
 {
-  "name": "facebook-flux",
+  "name": "flux-sample",
   "version": "1.0.0",
-  "description": "React template.",
+  "description": "Flux Sample.",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server -d --progress --colors",
